@@ -1,1 +1,1 @@
-# thingpark-integrations
+# ThingPark Integrations
