@@ -9,7 +9,7 @@ https://nodered.org/docs/getting-started/local
 If you prefer to test the solution on IBM cloud follow the procedure explined under the following link.  
 https://nodered.org/docs/getting-started/ibmcloud
 
-In case you just want to have a quick look at the flows, they are already preinstalled (in a read-only way) on the following link:  
+In case you just want to have a quick look at the flows without testing and or modifying them, tyou can have a look at read-only preinstalled examples at the following link:  
 https://nano-things.net/red/
 
 ## Installing sample flows
