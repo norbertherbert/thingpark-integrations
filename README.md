@@ -18,7 +18,7 @@ https://nodered.org/docs/user-guide/editor/workspace/import-export
 The source code of flows are collected in the following folders of this repository:  
 - [tpx-location-engine-AS](./tpx-location-engine-AS)  
   Example flows to connect an Application Server to TPX Location Engine  
-- [tpx-location-engine-NS](https://github.com/norbertherbert/thingpark-integrations/tree/main/tpx-location-engine-NS)  
+- [tpx-location-engine-NS](./main/tpx-location-engine-NS)  
   Example flows to connect the Network Server to TPX Location Engine  
-- [tunnel-interface](https://github.com/norbertherbert/thingpark-integrations/tree/main/tunnel-interface)  
+- [tunnel-interface](./tunnel-interface)  
   Example flows to connect the ThingPark Wireless/Enterprise Network Server to an Application Server  
