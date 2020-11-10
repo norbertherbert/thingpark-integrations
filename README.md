@@ -1,5 +1,6 @@
 # ThingPark Integrations
 This repository includes example code that demonstrates how to integrate Actility ThingPark components with 3rd party systems.  
+A general overview of the integration architecture is described [here](./3rdPtyNS_integration.md).  
 Most of the examples are in the form of Node-RED flows. In order to try them you need a Node-RED server that you can install either on your own machine locally or use it on IBM Cloud.
 ## Installing a Node-RED Server
 We recommend you either installing a Nede-RED server on your own computer/server machine locally or test in on IBM cloud.  
